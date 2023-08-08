@@ -1,2 +1,3 @@
 characters details 
 new line
+changes in bugFix branch.
