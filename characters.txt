@@ -1,3 +1,5 @@
 characters details 
 new line
 changes in bugFix branch.
+
+more changes for stacsh 2
